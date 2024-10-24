@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shreemad Kumbhani 👋
 
-<!--
-**shreemadkumbhani/shreemadkumbhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+- 🎓 Student at **Karnavati University**
+- 🌱 Currently learning **Image Classification using CIFAR-10**
+- ⚡ Passionate about **React Native**, **Python**, and **Tableau** for analyzing climate data in India
+- 🤝 Looking to collaborate on open-source projects and contribute to exciting app development
+- 🎉 Attended **GDG DevFest 2024** and loved the Flutter Flow workshop!
 
-Here are some ideas to get you started:
+## 🚀 Skills
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- **Attendance App with Geolocation**  
+  A React Native app that tracks employee attendance with geolocation fencing and time calculation. [Repository](https://github.com/shreemadkumbhani/attendance-app)
+
+- **Image Classification with CIFAR-10**  
+  Developed a CNN model using TensorFlow for image classification. [Repository](https://github.com/shreemadkumbhani/cifar10-classification)
+
+- **Climate Change Data Visualization**  
+  Created an interactive dashboard in Tableau visualizing climate change trends in India. [Repository](https://github.com/shreemadkumbhani/climate-data-visualization)
+
+## 📈 GitHub Stats
+![Shreemad's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreemadkumbhani&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreemadkumbhani/)
+

@@ -17,12 +17,11 @@
 🌱 I’m passionate about learning Machine Learning and Data Visualization tools like **Tableau** to tackle real-world problems.
 
 ## ⚙️ Skills
-[![C](https://github-widgetbox.vercel.app/api/skills?languages=c&includeNames=true)](https://github.com/shreemadkumbhani)
-[![Python](https://github-widgetbox.vercel.app/api/skills?languages=python&includeNames=true)](https://github.com/shreemadkumbhani)
-[![JavaScript](https://github-widgetbox.vercel.app/api/skills?languages=javascript&includeNames=true)](https://github.com/shreemadkumbhani)
-[![React Native](https://github-widgetbox.vercel.app/api/skills?languages=react&includeNames=true)](https://github.com/shreemadkumbhani)
-[![Tableau](https://github-widgetbox.vercel.app/api/skills?languages=tableau&includeNames=true)](https://github.com/shreemadkumbhani)
-[![R Language](https://github-widgetbox.vercel.app/api/skills?languages=r&includeNames=true)](https://github.com/shreemadkumbhani)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YashWadhvani&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,java,python,c,mysql&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,bootstrap,express&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,mongodb,nodejs,jupyter&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 📫 How to reach me:
 - **LinkedIn** - [linkedin.com/in/shreemadkumbhani](https://www.linkedin.com/in/shreemadkumbhani/)

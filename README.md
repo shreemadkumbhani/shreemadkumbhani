@@ -17,7 +17,7 @@
 🌱 I’m passionate about learning Machine Learning and Data Visualization tools like **Tableau** to tackle real-world problems.
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=shreemadkumbhani&data=repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ShreemadKumbhani&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=c,python,javascript,r&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 

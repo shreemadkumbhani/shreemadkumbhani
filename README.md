@@ -16,11 +16,15 @@
 
 🌱 I’m passionate about learning Machine Learning and Data Visualization tools like **Tableau** to tackle real-world problems.
 
-## ⚙️ Skills
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YashWadhvani&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,java,python,c,mysql&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,bootstrap,express&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,mongodb,nodejs,jupyter&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=shreemadkumbhani&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=c,python,javascript,r&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,reactnative&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,jupyter,tableau&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 📫 How to reach me:

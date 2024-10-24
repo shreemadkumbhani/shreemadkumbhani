@@ -35,4 +35,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreemadkumbhani&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreemadKumbhani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreemadkumbhani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shreemad's most used languages" />

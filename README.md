@@ -34,3 +34,5 @@
 ⚡ Fun fact: I'm always excited about tech meetups, learning new things, and connecting with the community. I attended GDG DevFest recently, and the experience was awesome! 🎉
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreemadkumbhani&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreemadKumbhani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />

@@ -21,7 +21,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,java,mysql,c,python,javascript,r&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,reactnative&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,jupyter,tableau&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 

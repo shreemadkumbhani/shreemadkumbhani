@@ -19,7 +19,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ShreemadKumbhani&data=followers,repositories,stars&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,java,mysql,c,python,bashr&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,java,mysql,c,python,bash&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 

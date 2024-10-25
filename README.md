@@ -25,7 +25,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,jupyter,nodejs,firebase&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,linux,vscode&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 📫 How to reach me:
 - **LinkedIn** - [linkedin.com/in/shreemadkumbhani](https://www.linkedin.com/in/shreemadkumbhani/)
